@@ -1,0 +1,11 @@
+README for examcode/res/img
+
+The icons (png) contained in the originals folder are from the blue_bits icon set from
+Icojam (http://www.icojam.com/blog/?p=253) which is included in the blue_bits.zip file. 
+On last checked date (2017-02-20), they were marked as public domain with the Creative 
+Commons Public Domain Mark 1.0 (https://creativecommons.org/publicdomain/mark/1.0/).
+
+In order to add/modify an icon, modify it in the originals folder (min. size 256x256).
+Then run generate_icons.sh to automatically generate the respective smaller variants. 
+BE AWARE THAT THE SCRIPT DELETES THE FOLDERS 16x16, 32x32, 48x48, 128x128, 256x256.
+
